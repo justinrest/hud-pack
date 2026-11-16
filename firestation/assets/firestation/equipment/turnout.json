@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "firestation:turnout"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "firestation:turnout"
+      }
+    ]
+  }
+}
