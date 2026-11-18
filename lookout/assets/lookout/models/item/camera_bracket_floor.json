@@ -1,0 +1,447 @@
+{
+  "textures": {
+    "bracket": "lookout:item/camera_bracket",
+    "particle": "lookout:item/camera_bracket"
+  },
+  "elements": [
+    {
+      "name": "floor_plate",
+      "from": [
+        5,
+        -0.64,
+        5
+      ],
+      "to": [
+        11,
+        0.36,
+        11
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            0.0,
+            0.0,
+            3.0,
+            3.0
+          ],
+          "texture": "#bracket"
+        },
+        "north": {
+          "uv": [
+            0.0,
+            4.0,
+            3.0,
+            4.5
+          ],
+          "texture": "#bracket"
+        },
+        "south": {
+          "uv": [
+            0.0,
+            4.0,
+            3.0,
+            4.5
+          ],
+          "texture": "#bracket"
+        },
+        "west": {
+          "uv": [
+            0.0,
+            4.0,
+            3.0,
+            4.5
+          ],
+          "texture": "#bracket"
+        },
+        "east": {
+          "uv": [
+            0.0,
+            4.0,
+            3.0,
+            4.5
+          ],
+          "texture": "#bracket"
+        }
+      }
+    },
+    {
+      "name": "bolt",
+      "from": [
+        5.5,
+        0.36,
+        5.5
+      ],
+      "to": [
+        6.5,
+        0.76,
+        6.5
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            4.0,
+            0.0,
+            4.5,
+            0.5
+          ],
+          "texture": "#bracket"
+        },
+        "north": {
+          "uv": [
+            4.0,
+            0.0,
+            4.5,
+            0.5
+          ],
+          "texture": "#bracket"
+        },
+        "south": {
+          "uv": [
+            4.0,
+            0.0,
+            4.5,
+            0.5
+          ],
+          "texture": "#bracket"
+        },
+        "west": {
+          "uv": [
+            4.0,
+            0.0,
+            4.5,
+            0.5
+          ],
+          "texture": "#bracket"
+        },
+        "east": {
+          "uv": [
+            4.0,
+            0.0,
+            4.5,
+            0.5
+          ],
+          "texture": "#bracket"
+        }
+      }
+    },
+    {
+      "name": "bolt",
+      "from": [
+        9.5,
+        0.36,
+        5.5
+      ],
+      "to": [
+        10.5,
+        0.76,
+        6.5
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            4.0,
+            0.0,
+            4.5,
+            0.5
+          ],
+          "texture": "#bracket"
+        },
+        "north": {
+          "uv": [
+            4.0,
+            0.0,
+            4.5,
+            0.5
+          ],
+          "texture": "#bracket"
+        },
+        "south": {
+          "uv": [
+            4.0,
+            0.0,
+            4.5,
+            0.5
+          ],
+          "texture": "#bracket"
+        },
+        "west": {
+          "uv": [
+            4.0,
+            0.0,
+            4.5,
+            0.5
+          ],
+          "texture": "#bracket"
+        },
+        "east": {
+          "uv": [
+            4.0,
+            0.0,
+            4.5,
+            0.5
+          ],
+          "texture": "#bracket"
+        }
+      }
+    },
+    {
+      "name": "bolt",
+      "from": [
+        5.5,
+        0.36,
+        9.5
+      ],
+      "to": [
+        6.5,
+        0.76,
+        10.5
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            4.0,
+            0.0,
+            4.5,
+            0.5
+          ],
+          "texture": "#bracket"
+        },
+        "north": {
+          "uv": [
+            4.0,
+            0.0,
+            4.5,
+            0.5
+          ],
+          "texture": "#bracket"
+        },
+        "south": {
+          "uv": [
+            4.0,
+            0.0,
+            4.5,
+            0.5
+          ],
+          "texture": "#bracket"
+        },
+        "west": {
+          "uv": [
+            4.0,
+            0.0,
+            4.5,
+            0.5
+          ],
+          "texture": "#bracket"
+        },
+        "east": {
+          "uv": [
+            4.0,
+            0.0,
+            4.5,
+            0.5
+          ],
+          "texture": "#bracket"
+        }
+      }
+    },
+    {
+      "name": "bolt",
+      "from": [
+        9.5,
+        0.36,
+        9.5
+      ],
+      "to": [
+        10.5,
+        0.76,
+        10.5
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            4.0,
+            0.0,
+            4.5,
+            0.5
+          ],
+          "texture": "#bracket"
+        },
+        "north": {
+          "uv": [
+            4.0,
+            0.0,
+            4.5,
+            0.5
+          ],
+          "texture": "#bracket"
+        },
+        "south": {
+          "uv": [
+            4.0,
+            0.0,
+            4.5,
+            0.5
+          ],
+          "texture": "#bracket"
+        },
+        "west": {
+          "uv": [
+            4.0,
+            0.0,
+            4.5,
+            0.5
+          ],
+          "texture": "#bracket"
+        },
+        "east": {
+          "uv": [
+            4.0,
+            0.0,
+            4.5,
+            0.5
+          ],
+          "texture": "#bracket"
+        }
+      }
+    },
+    {
+      "name": "post",
+      "from": [
+        7.25,
+        0.36,
+        7.25
+      ],
+      "to": [
+        8.75,
+        6.25,
+        8.75
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            11.0,
+            0.0,
+            11.75,
+            2.945
+          ],
+          "texture": "#bracket"
+        },
+        "south": {
+          "uv": [
+            11.0,
+            0.0,
+            11.75,
+            2.945
+          ],
+          "texture": "#bracket"
+        },
+        "west": {
+          "uv": [
+            11.0,
+            0.0,
+            11.75,
+            2.945
+          ],
+          "texture": "#bracket"
+        },
+        "east": {
+          "uv": [
+            11.0,
+            0.0,
+            11.75,
+            2.945
+          ],
+          "texture": "#bracket"
+        }
+      }
+    },
+    {
+      "name": "collar",
+      "from": [
+        6.75,
+        6.25,
+        6.75
+      ],
+      "to": [
+        9.25,
+        7.25,
+        9.25
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            12.0,
+            0.0,
+            13.25,
+            0.625
+          ],
+          "texture": "#bracket"
+        },
+        "south": {
+          "uv": [
+            12.0,
+            0.0,
+            13.25,
+            0.625
+          ],
+          "texture": "#bracket"
+        },
+        "west": {
+          "uv": [
+            12.0,
+            0.0,
+            13.25,
+            0.625
+          ],
+          "texture": "#bracket"
+        },
+        "east": {
+          "uv": [
+            12.0,
+            0.0,
+            13.25,
+            0.625
+          ],
+          "texture": "#bracket"
+        },
+        "up": {
+          "uv": [
+            12.0,
+            1.0,
+            13.25,
+            2.25
+          ],
+          "texture": "#bracket"
+        },
+        "down": {
+          "uv": [
+            12.0,
+            1.0,
+            13.25,
+            2.25
+          ],
+          "texture": "#bracket"
+        }
+      }
+    }
+  ],
+  "display": {
+    "fixed": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    }
+  }
+}

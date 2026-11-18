@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "lookout:item/camera_bracket_wall"
+  }
+}
