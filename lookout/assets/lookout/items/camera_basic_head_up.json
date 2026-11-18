@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "lookout:item/camera_basic_head_up"
+  }
+}

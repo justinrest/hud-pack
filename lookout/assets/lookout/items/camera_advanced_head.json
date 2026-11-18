@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "lookout:item/camera_advanced_head"
+  }
+}
